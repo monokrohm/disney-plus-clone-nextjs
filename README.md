@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Disney Plus Clone NextJS
 
-## Getting Started
+## [LIVE: Vercel Hosting](https://disney-plus-clone-nextjs.vercel.app/)
 
-First, run the development server:
+- Tailwind CSS
+- Caching
+- SWR Data Fetching
+- Embla Carousel
+- ShadCN - UI & Dark Mode
+- ChatGPT Chat Completions through Microsoft Azure Functions
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p>
+<hr>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##### _Embla Carousel_
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img src=./public/gifs/slide.gif alt=slide width=800px>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+##### _UI_
 
-## Learn More
+<img src=./public/gifs/ui.gif alt=ui width=800px>
 
-To learn more about Next.js, take a look at the following resources:
+<img src=./public/gifs/ui1.gif alt=ui1 width=800px>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##### _Genre Search with ChatGPT Recommendations_
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img src=./public/gifs/genre.gif alt=genre width=800px>
 
-## Deploy on Vercel
+<img src=./public/gifs/genre1.gif alt=genre1 width=800px>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+##### _Title Search with ChatGPT Recommendations_
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src=./public/gifs/search.gif alt=search width=800px>
+
+<img src=./public/gifs/search1.gif alt=search1 width=800px>
+
+##### _Caching_
+
+<img src=./public/gifs/cache.gif alt=cache width=800px>
