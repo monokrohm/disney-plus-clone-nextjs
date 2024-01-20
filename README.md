@@ -1,4 +1,4 @@
-# Disney Plus Clone NextJS
+# Disney+ Clone NextJS
 
 ## [LIVE: Vercel Hosting](https://disney-plus-clone-nextjs.vercel.app/)
 
